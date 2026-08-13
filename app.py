@@ -162,7 +162,7 @@ st.markdown("""
 <div class="main-header">
   <h1>🛡️ Nigeria WhatsApp & SMS Scam Detection System</h1>
   <p>Rule-Based Prototype · Explainable Classification · Nigerian Scam Patterns</p>
-  <span class="badge">MSc Computer Science Research Project — Prototype v1.0</span>
+  <span class="badge">Prototype v1.0</span>
 </div>
 """, unsafe_allow_html=True)
 
